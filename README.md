@@ -11,3 +11,9 @@ Weather Map Api - https://openweathermap.org/current
 <br>
 Country Flags Api - https://flagsapi.com
 (Essa Api não tem Key, então é bem mais facil de utilizar)
+
+Unsplash - https://source.unsplash.com/1600x900/?
+
+## Tecnologias utilizadas:
+
+HTML, CSS e Javascript (DOM e Consumo de API's)
